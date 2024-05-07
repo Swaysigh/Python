@@ -1,7 +1,7 @@
 name = "Swayam Singh"
 print(len(name))
 print(name[0:7])
-print(name[9:12])
+print(name[9:11])
 print(name[0:-3])
 
 print(name[-4:-2])

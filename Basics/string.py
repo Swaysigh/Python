@@ -1,3 +1,15 @@
+name = "Swayam Singh"
+print(len(name))
+print(name[0:7])
+print(name[9:11])
+print(name[0:-3])
+
+print(name[-4:-2])
+# What's happening is that it deduces the no. from len of string
+# Example [-4:-2] it implies that 12 - 4 = 8 & 12 - 2 = 10
+# The code will run from name[8:10]
+
+                         """string functions"""
 a = "Hello"
 print(a.upper())        #converts str into upper case
 

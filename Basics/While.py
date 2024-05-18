@@ -1,8 +1,7 @@
-i = int(input("Enter The number: "))
+i = 0
 while( i <= 38):
     i = int(input("Enter The number: "))
     print(i)
-    i = i + 1
 
 # Decrementing Loop
 count = 5

@@ -2,6 +2,11 @@ i = 0
 while( i <= 38):
     i = int(input("Enter The number: "))
     print(i)
+    
+i = int(input("Enter the number:"))
+while( i <= 50):
+    i = int(input("Enter The number: "))
+    print(i)
 
 # Decrementing Loop
 count = 5
